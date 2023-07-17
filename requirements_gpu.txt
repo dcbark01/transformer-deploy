@@ -1,2 +1,1 @@
-onnxruntime-gpu
-nvidia-tensorrt==8.4.1.5
+
