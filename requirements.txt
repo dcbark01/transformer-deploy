@@ -1,7 +1,6 @@
 torch
 onnx
 tritonclient[all]
-nvidia-pyindex
 numpy==1.23.5
 requests
 transformers
